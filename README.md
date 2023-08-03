@@ -4,10 +4,9 @@ This project we are doing Student Documents Approval System using React Js.
 
 ## Team Members
 
-- **Kajamohan K.**
-- **Thilakarathna R.M.S.S.**
-- **Naif A.M.M.**
-- **Gobishangar V.**
+- **Evans Makori-Project Cordinator.**
+- **limelite (Kevin Kathei).**
+- **Kiplagat Cosmas**
 
 ## Installation
 
